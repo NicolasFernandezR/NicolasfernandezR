@@ -27,11 +27,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, TypeScript, Nodejs, MongoDB**
+- 🔭 I’m currently studing on **React, TypeScript, Nodejs, MongoDB**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **fernandez.ro.nicolas@gmail.com**
 
