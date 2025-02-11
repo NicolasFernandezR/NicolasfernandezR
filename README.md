@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently studing on **React, TypeScript, Nodejs, Nestjs, MySql MongoDB**
+- 🔭 My stack is **React, TypeScript, Node.js, NestJS, MySQL, and MongoDB.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
